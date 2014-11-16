@@ -1,3 +1,1 @@
-scwebsite
-=========
-this is the HTML sourse for the site!
+Cloud code project for webpage. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
